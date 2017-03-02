@@ -89,7 +89,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=1;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=9.5367432e-007;
 					class CustomAttributes
 					{
@@ -144,7 +144,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=3;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					class CustomAttributes
 					{
 						class Attribute0
@@ -197,7 +197,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=5;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-9.5367432e-007;
 					class CustomAttributes
 					{
@@ -252,7 +252,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=7;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.00066757202;
 					class CustomAttributes
 					{
@@ -307,7 +307,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=9;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.00091934204;
 					class CustomAttributes
 					{
@@ -362,7 +362,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=11;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0013332367;
 					class CustomAttributes
 					{
@@ -417,7 +417,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=13;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0013332367;
 					class CustomAttributes
 					{
@@ -472,7 +472,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=15;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.0013332367;
 					class CustomAttributes
 					{
@@ -527,7 +527,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=17;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.0013341904;
 					class CustomAttributes
 					{
@@ -582,7 +582,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=19;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.002371788;
 					class CustomAttributes
 					{
@@ -637,7 +637,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=21;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					class CustomAttributes
 					{
 						class Attribute0
@@ -690,7 +690,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=23;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-1.9073486e-006;
 					class CustomAttributes
 					{
@@ -745,7 +745,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=25;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.00066661835;
 					class CustomAttributes
 					{
@@ -800,7 +800,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=27;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.00066757202;
 					class CustomAttributes
 					{
@@ -855,7 +855,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=29;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-9.5367432e-007;
 					class CustomAttributes
 					{
@@ -910,7 +910,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=31;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0013332367;
 					class CustomAttributes
 					{
@@ -965,7 +965,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=33;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.00058555603;
 					class CustomAttributes
 					{
@@ -1020,7 +1020,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=35;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-9.5367432e-007;
 					class CustomAttributes
 					{
@@ -1075,7 +1075,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=37;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.0011606216;
 					class CustomAttributes
 					{
@@ -1130,7 +1130,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=39;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.0059986115;
 					class CustomAttributes
 					{
@@ -1185,7 +1185,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=41;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-9.5367432e-007;
 					class CustomAttributes
 					{
@@ -1240,7 +1240,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=43;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-9.5367432e-007;
 					class CustomAttributes
 					{
@@ -1295,7 +1295,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=45;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0013332367;
 					class CustomAttributes
 					{
@@ -1350,7 +1350,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=47;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.00018787384;
 					class CustomAttributes
 					{
@@ -1405,7 +1405,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=49;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-1.9073486e-006;
 					class CustomAttributes
 					{
@@ -1460,7 +1460,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=51;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.002664566;
 					class CustomAttributes
 					{
@@ -1515,7 +1515,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=53;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.021328926;
 					class CustomAttributes
 					{
@@ -1570,7 +1570,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=55;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-9.5367432e-007;
 					class CustomAttributes
 					{
@@ -1625,7 +1625,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=57;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.01333046;
 					class CustomAttributes
 					{
@@ -1680,7 +1680,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=59;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.022661209;
 					class CustomAttributes
 					{
@@ -1735,7 +1735,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=61;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.001999855;
 					class CustomAttributes
 					{
@@ -1790,7 +1790,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=63;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.00066661835;
 					class CustomAttributes
 					{
@@ -1845,7 +1845,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=65;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0013332367;
 					class CustomAttributes
 					{
@@ -1900,7 +1900,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=67;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.017329216;
 					class CustomAttributes
 					{
@@ -1955,7 +1955,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=69;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.015995979;
 					class CustomAttributes
 					{
@@ -2010,7 +2010,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=71;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.023993492;
 					class CustomAttributes
 					{
@@ -2065,7 +2065,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=73;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.021328926;
 					class CustomAttributes
 					{
@@ -2120,7 +2120,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=75;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.020070076;
 					class CustomAttributes
 					{
@@ -2175,7 +2175,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=77;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.013329506;
 					class CustomAttributes
 					{
@@ -2230,7 +2230,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=79;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.022725105;
 					class CustomAttributes
 					{
@@ -2285,7 +2285,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=81;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.0020017624;
 					class CustomAttributes
 					{
@@ -2340,7 +2340,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=83;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.00066661835;
 					class CustomAttributes
 					{
@@ -2395,7 +2395,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=85;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0079975128;
 					class CustomAttributes
 					{
@@ -2450,7 +2450,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=87;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.01733017;
 					class CustomAttributes
 					{
@@ -2505,7 +2505,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=89;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.0079984665;
 					class CustomAttributes
 					{
@@ -2560,7 +2560,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=91;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.021327972;
 					class CustomAttributes
 					{
@@ -2615,7 +2615,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=93;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.016210556;
 					class CustomAttributes
 					{
@@ -2670,7 +2670,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=95;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.019994736;
 					class CustomAttributes
 					{
@@ -2725,7 +2725,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=97;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0039978027;
 					class CustomAttributes
 					{
@@ -2780,7 +2780,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=99;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.0093317032;
 					class CustomAttributes
 					{
@@ -2835,7 +2835,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=101;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.0059995651;
 					class CustomAttributes
 					{
@@ -2890,7 +2890,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=103;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.023994446;
 					class CustomAttributes
 					{
@@ -2945,7 +2945,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=105;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.021525383;
 					class CustomAttributes
 					{
@@ -3000,7 +3000,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=107;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.007232666;
 					class CustomAttributes
 					{
@@ -3055,7 +3055,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=109;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.0079975128;
 					class CustomAttributes
 					{
@@ -3110,7 +3110,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=111;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.021327972;
 					class CustomAttributes
 					{
@@ -3165,7 +3165,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=113;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0013008118;
 					class CustomAttributes
 					{
@@ -3220,7 +3220,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=115;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.007144928;
 					class CustomAttributes
 					{
@@ -3275,7 +3275,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=117;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.005364418;
 					class CustomAttributes
 					{
@@ -3330,7 +3330,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=119;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0040006638;
 					class CustomAttributes
 					{
@@ -3385,7 +3385,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=121;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0028409958;
 					class CustomAttributes
 					{
@@ -3440,7 +3440,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=123;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.021987915;
 					class CustomAttributes
 					{
@@ -3495,7 +3495,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=125;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.022507668;
 					class CustomAttributes
 					{
@@ -3550,7 +3550,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=127;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.0066642761;
 					class CustomAttributes
 					{
@@ -3605,7 +3605,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=129;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0053329468;
 					class CustomAttributes
 					{
@@ -3660,7 +3660,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=131;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.00066661835;
 					class CustomAttributes
 					{
@@ -3715,7 +3715,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=133;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.001332283;
 					class CustomAttributes
 					{
@@ -3770,7 +3770,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=135;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.00030040741;
 					class CustomAttributes
 					{
@@ -3825,7 +3825,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=137;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0013332367;
 					class CustomAttributes
 					{
@@ -3880,7 +3880,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=139;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0031661987;
 					class CustomAttributes
 					{
@@ -3935,7 +3935,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=141;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.015995979;
 					class CustomAttributes
 					{
@@ -3990,7 +3990,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=143;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.018391609;
 					class CustomAttributes
 					{
@@ -4045,7 +4045,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=145;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					class CustomAttributes
 					{
 						class Attribute0
@@ -4098,7 +4098,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=147;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.001332283;
 					class CustomAttributes
 					{
@@ -4153,7 +4153,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=149;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.00090312958;
 					class CustomAttributes
 					{
@@ -4208,7 +4208,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=151;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.00042629242;
 					class CustomAttributes
 					{
@@ -4263,7 +4263,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=153;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.00066566467;
 					class CustomAttributes
 					{
@@ -4318,7 +4318,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=155;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0013332367;
 					class CustomAttributes
 					{
@@ -4373,7 +4373,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=157;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0013332367;
 					class CustomAttributes
 					{
@@ -4428,7 +4428,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=159;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.015381813;
 					class CustomAttributes
 					{
@@ -4483,7 +4483,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=161;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.015974998;
 					class CustomAttributes
 					{
@@ -4538,7 +4538,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=163;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0086650848;
 					class CustomAttributes
 					{
@@ -4593,7 +4593,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=165;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					class CustomAttributes
 					{
 						class Attribute0
@@ -4646,7 +4646,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=167;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.0013313293;
 					class CustomAttributes
 					{
@@ -4701,7 +4701,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=169;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.021993637;
 					class CustomAttributes
 					{
@@ -4756,7 +4756,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=171;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.00066661835;
 					class CustomAttributes
 					{
@@ -4811,7 +4811,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=173;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.023351669;
 					class CustomAttributes
 					{
@@ -4866,7 +4866,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=175;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.02199173;
 					class CustomAttributes
 					{
@@ -4921,7 +4921,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=177;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.014335632;
 					class CustomAttributes
 					{
@@ -4976,7 +4976,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=179;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.01667881;
 					class CustomAttributes
 					{
@@ -5031,7 +5031,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=181;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.009226799;
 					class CustomAttributes
 					{
@@ -5086,7 +5086,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=183;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0086774826;
 					class CustomAttributes
 					{
@@ -5141,7 +5141,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=185;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.015327454;
 					class CustomAttributes
 					{
@@ -5196,7 +5196,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=187;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.022017479;
 					class CustomAttributes
 					{
@@ -5251,7 +5251,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=189;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.0065898895;
 					class CustomAttributes
 					{
@@ -5306,7 +5306,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=191;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.021325111;
 					class CustomAttributes
 					{
@@ -5361,7 +5361,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=193;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.023962021;
 					class CustomAttributes
 					{
@@ -5416,7 +5416,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=195;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.021992683;
 					class CustomAttributes
 					{
@@ -5471,7 +5471,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=197;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=-0.016443253;
 					class CustomAttributes
 					{
@@ -5526,7 +5526,7 @@ class Mission
 						isPlayable=1;
 					};
 					id=199;
-					type="B_Soldier_F";
+					type="B_T_Soldier_universal_F";
 					atlOffset=0.010015488;
 					class CustomAttributes
 					{
