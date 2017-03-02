@@ -1,0 +1,19 @@
+// DESCRIPTION
+author				= "TacEXE";
+onLoadName			= "TCSL Campaign Template";
+onLoadMission		= "Tacticasual's Campaign Template to liberate the entire island.";
+loadScreen			= "img\loadScreenCampaignTemplate.paa";
+
+
+// Respawn
+SkipLobby			= 1;
+respawnOnStart		= -1;
+
+disabledAI			= 1;
+debriefing			= 0;
+enableDebugConsole	= 0;
+
+class CfgFunctions 
+{
+    #include "fnc\functions.hpp"
+}; 
